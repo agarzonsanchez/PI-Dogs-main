@@ -1,0 +1,43 @@
+.navBar {
+  background-color: #f05133;
+  padding: 1px;
+  height: 40px;
+  box-shadow: 2px 2px;
+  font-size: 15px;
+}
+
+.formBack {
+  margin: auto;
+  padding: 15px;
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 400px;
+  background-color: rgba(156, 87, 8, 0.6);
+  box-shadow: 1px 1px;
+}
+.btnStyles {
+  background-color: #f05133;
+  margin: 10px;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  padding: 5px;
+  box-shadow: 2px 2px black;
+}
+.btnStyles:hover {
+  background-color: #f79762;
+}
+
+.errorStyle {
+  background-color: #bf181d;
+  margin: 5px auto;
+  border-radius: 10px;
+  color: white;
+  font-size: 12px;
+  width: 200px;
+}
+
+.inputStyle {
+  border-radius: 5px;
+  margin-left: 6px;
+}

@@ -1,0 +1,19 @@
+.inputStyles {
+  border-radius: 5px 0 0 5px;
+  padding: 5px;
+  box-shadow: 1px 1px black;
+}
+
+.btnStylesS {
+  margin-top: 2px;
+  font-size: 18px;
+  background-color: #f05133;
+  color: white;
+  border-radius: 0 5px 5px 0;
+  border: none;
+  padding: 5px;
+  box-shadow: 2px 2px black;
+}
+.btnStylesS:hover {
+  background-color: #f79762;
+}

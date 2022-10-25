@@ -1,0 +1,19 @@
+.listHome {
+  display: inline-flex;
+  list-style: none;
+}
+
+.btnStyle {
+  background-color: #f05133;
+  border: none;
+  font-size: 18px;
+  margin: 0 10px 0 10px;
+}
+.btnStyle:hover {
+  background-color: #f79762;
+}
+
+.linkStyle {
+  text-decoration: none;
+  color: white;
+}

@@ -1,0 +1,42 @@
+.navBar {
+  background-color: #f05133;
+  padding: 1px;
+  height: 40px;
+  box-shadow: 2px 2px;
+}
+
+.cardsDogss {
+  border: 2px solid black;
+  border-radius: 10px;
+  height: 700;
+  width: 300px;
+  margin: auto;
+  margin-top: 20px;
+  justify-content: auto;
+  background-color: rgba(156, 87, 8, 0.6);
+  box-shadow: 1px 1px;
+}
+
+.imageDogs {
+  max-width: 50%;
+  border: 2px solid black;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.dogNames {
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.descriptionss {
+  color: black;
+  font-size: 10px;
+  text-decoration: none;
+}
+
+.linkDogs {
+  text-decoration: none;
+}
